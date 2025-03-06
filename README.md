@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## My name is Rian Pinas, and I'm a Control and Automation Engineering student
+
+## Languages: C++, Java, Python.
+
 <!--
 **Rian-Pinas/Rian-Pinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
